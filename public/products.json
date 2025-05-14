@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Smart Blender",
+      "description": "Powerful and sleek appliance for your kitchen.",
+      "price": "4,550.00",
+      "image": "https://i.pinimg.com/736x/7b/7b/ad/7b7bad28957e08446aeddc2b0cb37dbd.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Luxury Watch",
+      "description": "Timeless design with modern features.",
+      "price": "3,590.99",
+      "image": "https://i.pinimg.com/736x/46/36/ac/4636ac6660a144072a681a4d094e2238.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Wireless Headphones",
+      "description": "Noise-cancelling and immersive sound experience.",
+      "price": "4,980.99",
+      "image": "https://i.pinimg.com/736x/36/41/5d/36415d1b12c6976a037b6dd82474fb1e.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Gaming Mouse",
+      "description": "Precision and speed for competitive gamers.",
+      "price": "3,990.99",
+      "image": "https://i.pinimg.com/736x/f8/98/95/f8989509466d489d49bdb9c24289d329.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Portable Speaker",
+      "description": "Loud, clear, and built for travel.",
+      "price": "4,650.99",
+      "image": "https://i.pinimg.com/736x/c5/b1/33/c5b133d8f05f359e1d6c792bea023285.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Coffee Maker",
+      "description": "Brew barista-quality coffee at home.",
+      "price": "7,800.99",
+      "image": "https://i.pinimg.com/736x/a9/0c/af/a90caf101f57296f64c4574650a53196.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Standing Fan",
+      "description": "Beautiful fan to cool and make your home look cool.",
+      "price": "7,900.99",
+      "image": "https://i.pinimg.com/736x/67/72/dd/6772ddc37ae93ea9a982e38c75ccbfde.jpg"
+    }
+  ]
+  
